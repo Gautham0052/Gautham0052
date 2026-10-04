@@ -4,7 +4,7 @@
 
 I'm a fresher who workes with data and building clean, well-structured software. I'm currently learning, building projects, and putting my work on GitHub.
 
-🌐 **Portfolio:** [gautham0052.github.io](https://gautham0052.github.io)
+🌐 **Portfolio:** [gautham0052.github.io](https://gautham0052.github.io/Gautham0052/)
 
 ---
 

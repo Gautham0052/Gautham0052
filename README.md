@@ -45,7 +45,7 @@ SECONDARY SKILLS (easy to move):
 | Project | Description | Tech Used | Link |
 |---|---|---|---|
 | _Customer trends data analysis-SQL-Python-PowerBI_ | _Business insights from raw data_ | _Python, Pandas, SQL & PowerBI_ | [Repo](https://github.com/Gautham0052/customer-trends-data-analysis-SQL-Python-PowerBI-.git) |
-| _Project name_ | _One line on what it does_ | _Python, Pandas, ..._ | [Repo](https://github.com/Gautham0052) |
+| _Personal Expense Tracker_ | _The application allows users to add, edit, delete, search, filter, and export financial transactions._ | _Python, Tkinter, and SQLite_ | [Repo](https://github.com/Gautham0052/Personal-Expense-Tracker-.git) |
 
 ---
 

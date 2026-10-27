@@ -44,6 +44,8 @@ SECONDARY SKILLS (easy to move):
 
 | Project | Description | Tech Used | Link |
 |---|---|---|---|
+| _Customer trends data analysis-SQL-Python-PowerBI
+_ | _Business insights from raw data_ | _Python, Pandas, ..._ | [Repo](https://github.com/Gautham0052) |
 | _Project name_ | _One line on what it does_ | _Python, Pandas, ..._ | [Repo](https://github.com/Gautham0052) |
 
 ---
